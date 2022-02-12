@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name Default="Youtube-DL">Youtube-DL</Name>
-  <Repository>Bozo-4id3y/youtube-dl</Repository>
+  <Repository>4id3y/youtube-dl</Repository>
   <Registry>https://hub.docker.com/r/4id3y/youtube-dl/</Registry>
   <Network>bridge</Network>
   <Privileged>true</Privileged>
