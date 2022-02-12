@@ -4,7 +4,7 @@
   <Repository>Bozo-4id3y/youtube-dl</Repository>
   <Registry>https://hub.docker.com/r/4id3y/youtube-dl/</Registry>
   <Network>bridge</Network>
-  <Privileged>false</Privileged>
+  <Privileged>true</Privileged>
   <Support>https://github.com/4id3y/unraid-youtube-dl/issues</Support>
   <Overview/>
   <Category>Downloaders: Status:Stable</Category>
